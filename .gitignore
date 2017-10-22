@@ -1,0 +1,12 @@
+# Deploy files
+/hadeploy/
+
+# Build output
+/target/
+/logs/
+
+# Intellij files
+/*.iml
+/*.ipr
+/*.iws
+/.idea/
